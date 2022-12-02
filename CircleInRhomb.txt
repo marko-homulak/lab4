@@ -1,0 +1,7 @@
+Circle radius = 353.553
+Circle area = 392699
+Circle length = 2221.44
+
+Side a = 10
+Angle alpha = 45
+Rhomb area = 70.7107
